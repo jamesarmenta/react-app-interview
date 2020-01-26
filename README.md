@@ -1,19 +1,17 @@
-
-### Welcome
+## Welcome
 
 For your craft demonstration, we ask you to implement a small Single Page Application using React. Below you will find the [requirements](#exercise-requirements). Expect to demonstrate your application and talk through your code during the next interview.
 
+**Please provide your recruiter with a link to your code on a version control repository hosting service (GitHub, BitBucket, etc.) _before your interview._** Use commit messages as you would in a real-world project.
+
 We invite you to use your own laptop for the craft demo. If you do not have or are unable to use your own computer, you will be asked to implement this exercise on a computer provided by us during the next interview. Please contact your recruiter to let us know if this is the case.
 
-### Schedule
-
-**Use your time wisely**. It would be better to deliver two working features than ten half-working ones.
-
-### Exercise Requirements
+## Prompt
 
 Develop an Interview Wizard Application (IWA). The purpose of the IWA is to ask the user one or more questions in order to learn more about them. The expectation is that each question is displayed on its own screen/view inside the wizard. In addition, it is also expected that the wizard can be embedded on a page easily in widget-type form; thus, this widget must assume that it can’t control the page that it’s on. After the user has responded to all three questions, all questions and responses should be displayed to the user.
-The following are specific requirements:
 
+## Requirements
+The following are specific requirements:
   - Coding:
     - Build using the provided React JS boilerplate
     - Should be **mobile responsive**
@@ -30,11 +28,11 @@ The following are specific requirements:
       - https://github.com/jamesarmenta/react-app-interview/raw/master/images/icon-audit-support-retina.png
     - add CSS styling
 
----
+**Use your time wisely**. It would be better to deliver two working features than ten half-working ones.
 
-### Design Specs
+## Design Specs
 
-> See the design spec in [./specs/widget_spec.png](/specs/widget_spec.png)
+![Design Spec](https://i.imgur.com/USFzht7.png)
 
 #### Questions Screen
 
