@@ -1,6 +1,6 @@
 ## Welcome
 
-For your craft demonstration, we ask you to implement a small Single Page Application using React. Below you will find the [requirements](#exercise-requirements). Expect to demonstrate your application and talk through your code during the next interview.
+For your craft demonstration, we ask you to implement a small Single Page Application using React. Below you will find the [requirements](#requirements). **Allow yourself no more than 1 hour to develop the application.** Expect to demonstrate your application and talk through your code during the next interview.
 
 **Please provide your recruiter with a link to your code on a version control repository hosting service (GitHub, BitBucket, etc.) _before your interview._** Use commit messages as you would in a real-world project.
 
